@@ -1,0 +1,9 @@
+{
+"name":"john",
+"pets":["rosie","rocky","luna"],
+"children":{
+"zach": {"age":21},
+"allie":{"age":14}
+},
+"job":"instructor"
+}
